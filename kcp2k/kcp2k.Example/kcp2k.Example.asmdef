@@ -1,0 +1,6 @@
+{
+	"name": "kcp2k.Example",
+	"references": [
+		"kcp2k"
+	]
+}
